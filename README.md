@@ -158,6 +158,7 @@ LOVO validation
 | Method | ACC | F1-score|
 |----|----|----|
 |STCNN|0.407|0.184|
+|STCNN+GANimation|0.394|0.132|
 |STCNN+AU-ICGAN|0.403(-0.4%)|0.273(+8.9%)|
 |CapsuleNet|0.324|0.155|
 |CapsuleNet + AI-ICGAN|0.338(+1.4%)|0.257(+10.2%)|
