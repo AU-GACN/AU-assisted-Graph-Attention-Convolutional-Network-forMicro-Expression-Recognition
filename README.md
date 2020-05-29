@@ -140,7 +140,7 @@ LOVO validation
 | Method | ACC | F1-score|
 |----|----|----|
 |STCNN|0.407|0.184|
-|STCNN|0.403(-0.4%)|0.273(+8.9%)|
+|STCNN+AU-ICGAN|0.403(-0.4%)|0.273(+8.9%)|
 |CapsuleNet|0.324|0.155|
 |CapsuleNet + AI-ICGAN|0.338(+1.4%)|0.257(+10.2%)|
 |MER-GCN|0.398|0.173|
@@ -153,10 +153,10 @@ LOVO validation
 | Method | ACC | F1-score|
 |----|----|----|
 |STCNN|0.384|0.149|
-|STCNN|0.383(-0.1%)|0.159(+1.0%)|
+|STCNN+AU-ICGAN|0.383(-0.1%)|0.159(+1.0%)|
 |CapsuleNet|0.266|0.158|
 |CapsuleNet + AI-ICGAN|0.259(-0.67)|0.161(+0.3%)|
 |MER-GCN|0.273|0.108|
-|MER-GCN|0.344(+7.1%)|0.118(+1.0%)|
+|MER-GCN+AU-ICGAN|0.344(+7.1%)|0.118(+1.0%)|
 |AU-GACN|0.409|0.212|
 |**AU-GACN+AU-ICGAN**|0.426(+1.7%)|0.228(1.6%)|
