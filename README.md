@@ -104,6 +104,23 @@ LOVO validation
 |MER-GCN|0.361|0.178|
 |**AU-GACN+AU-ICGAN**|0.451(+9.0%)|0.309(+11.9%)|
 
+
+## sample results from data augmentation by AU-ICGAN
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/casme_disgust.png)
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/casme_fear.png)
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/casme_happiness.png)
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/casme_repression.png)
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/casme_sadness.png)
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/casme_surprise.png)
+
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/samm_angry.png)
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/samm_contempt.png)
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/samm_disgust.png)
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/samm_fear.png)
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/samm_happiness.png)
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/samm_sadness.png)
+![image](https://github.com/AU-GACN/AU-assisted-Graph-Attention-Convolutional-Network-forMicro-Expression-Recognition/blob/master/imgs/samm_surprise.png)
+
 ## The impact of data augmentation
 
 LOSO validation
