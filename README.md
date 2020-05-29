@@ -129,7 +129,8 @@ LOSO validation
 | Method | ACC | F1-score|
 |----|----|----|
 |STCNN|0.368|0.132|
-|STCNN|0.411(+4.3%)|0.253(+12.1%)|
+|STCNN+GANimation|0.352|0.133|
+|STCNN+AU-ICGAN|0.411(+4.3%)|0.253(+12.1%)|
 |CapsuleNet|0.331|0.194|
 |CapsuleNet + AI-ICGAN|0.368(+3.7%)|0.267(+7.3%)|
 |MER-GCN|0.405|0.163|
@@ -142,11 +143,11 @@ LOSO validation
 | Method | ACC | F1-score|
 |----|----|----|
 |STCNN|0.289|0.094|
-|STCNN|0.367(+7.8%)|0.167(+7.3%)|
+|STCNN+AU-ICGAN|0.367(+7.8%)|0.167(+7.3%)|
 |CapsuleNet|0259|0.111|
 |CapsuleNet + AI-ICGAN|0.275(+1.6%)|0.193(+8.2%)|
 |MER-GCN|0.294|0.010|
-|MER-GCN|0.328(+3.6%)|0.124(+11.4%)|
+|MER-GCN+AU-ICGAN|0.328(+3.6%)|0.124(+11.4%)|
 |AU-GACN|0.489|0.310|
 |**AU-GACN+AU-ICGAN**|0.523(+3.4%)|0.357(4.7%)|
 
