@@ -132,8 +132,10 @@ LOSO validation
 |STCNN+GANimation|0.352|0.133|
 |STCNN+AU-ICGAN|0.411(+4.3%)|0.253(+12.1%)|
 |CapsuleNet|0.331|0.194|
+|CapsuleNet + GANimation|0.325|0.204|
 |CapsuleNet + AI-ICGAN|0.368(+3.7%)|0.267(+7.3%)|
 |MER-GCN|0.405|0.163|
+|MER-GCN+GANimation|0.377|0.158|
 |MER-GCN+AU-ICGAN|0.441(+3.6%)|0.181(+1.8%)|
 |AU-GACN|0.492|0.273|
 |**AU-GACN+AU-ICGAN**|0.561(+6.9%)|0.394(+11.9%)|
@@ -161,8 +163,10 @@ LOVO validation
 |STCNN+GANimation|0.394|0.132|
 |STCNN+AU-ICGAN|0.403(-0.4%)|0.273(+8.9%)|
 |CapsuleNet|0.324|0.155|
+|CapsuleNet + GANimation|0.319|0.211|
 |CapsuleNet + AI-ICGAN|0.338(+1.4%)|0.257(+10.2%)|
 |MER-GCN|0.398|0.173|
+|MER-GCN+GANimation|0.382|0.166|
 |MER-GCN+AU-ICGAN|0.439(+4.1%)|0.186(+1.3%)|
 |AU-GACN|0.420|0.347|
 |**AU-GACN+AU-ICGAN**|0.519(+9.9%)|0.424(+7.7%)|
